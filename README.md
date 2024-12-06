@@ -6,7 +6,7 @@
 
 <br>
 
-# FarmTech Solutions - Fase 4
+# Automatizando a classificação de grãos com Machine Learning - Fase 4 (cap 3)
 
 ## Beginner Coders
 
