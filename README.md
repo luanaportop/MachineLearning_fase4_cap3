@@ -30,6 +30,8 @@ Este projeto busca automatizar a classificação de grãos de trigo utilizando a
 
 Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
+- <b>assets</b>: aqui está a imagem da logo da fiap utilizada no readme.
+
 - <b>src</b>: Arquivo ipynb contendo o código do projeto e dataset utilizado.
 
 - <b>README.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
